@@ -2,12 +2,15 @@ Hola Mundo
 
 Hola mundo 2
 
-<<<<<<< HEAD
+
 
 
 
 
 Hola mundo 4
-=======
+
 Hola mundo 3
->>>>>>> f299d9bd4cc3d10cfe9acdd58a8356ad7322da06
+
+Comprobando
+
+
